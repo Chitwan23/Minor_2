@@ -6,23 +6,24 @@ Welcome to the AI Assistant project! This repository contains the code for a per
 
 **Features**
 
-Face Recognition: Identifies the user via webcam before proceeding with tasks.
+**Face Recognition:** Identifies the user via webcam before proceeding with tasks.
 
-Voice Commands: Takes voice commands from the user to perform actions.
+**Voice Commands:** Takes voice commands from the user to perform actions.
 
-Wikipedia Search: Retrieves and reads out summaries from Wikipedia.
+**Wikipedia Search:** Retrieves and reads out summaries from Wikipedia.
 
-Open Websites: Opens popular websites like YouTube, Google, WhatsApp, etc.
+**Open Websites:** Opens popular websites like YouTube, Google, WhatsApp, etc.
 
-Play Music: Plays music from a specified directory.
+**Play Music:** Plays music from a specified directory.
 
-Check Time: Tells the current time.
+**Check Time:** Tells the current time.
 
-Open Applications: Opens applications like Visual Studio Code, Word, Excel, Telegram.
+**Open Applications:** Opens applications like Visual Studio Code, Word, Excel, Telegram.
 
-Send Emails: Sends emails using Gmail SMTP.
+**Send Emails:** Sends emails using Gmail SMTP.
 
-Check Internet Connection: Checks for active internet connection.
+**Check Internet Connection:** Checks for active internet connection.
+
 
 **Installation**
 
